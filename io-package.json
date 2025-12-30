@@ -90,7 +90,8 @@
       }
     },
     "authors": [
-      "ldittmar <iobroker@lmdsoft.de>"
+      "ldittmar <iobroker@lmdsoft.de>",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
     ],
     "titleLang": {
       "en": "Sony Bravia Smart-TV",
@@ -140,12 +141,12 @@
     "tier": 2,
     "dependencies": [
       {
-        "js-controller": ">=5.0.19"
+        "js-controller": ">=6.0.11"
       }
     ],
     "globalDependencies": [
       {
-        "admin": ">=6.13.16"
+        "admin": ">=7.6.17"
       }
     ],
     "plugins": {
