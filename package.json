@@ -2,10 +2,10 @@
   "name": "iobroker.sony-bravia",
   "version": "1.1.0",
   "description": "ioBroker Sony Bravia Smart-TV Adapter",
-  "author": {
-    "name": "ldittmar",
-    "email": "iobroker@lmdsoft.de"
-  },
+  "author": "ldittmar <iobroker@lmdsoft.de>",
+  "contributors": [
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
+  ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.sony-bravia",
   "license": "MIT",
   "keywords": [
